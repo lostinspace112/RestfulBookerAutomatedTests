@@ -1,3 +1,5 @@
+package AdminBooker;
+
 import driverfactory.DriverFactory;
 import org.junit.After;
 import org.junit.Before;
